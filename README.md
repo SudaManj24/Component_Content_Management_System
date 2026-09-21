@@ -17,7 +17,7 @@ Features differ between products, so treat this article as a map of common groun
 
 In a document-based workflow, the manual is the unit: one file, usually edited by one author at a time, containing everything. In a component-based workflow, the unit is smaller. A single topic, procedure, warning, or table is stored as its own object in a central repository. A document becomes an assembly: a defined list of components in a defined order.
 
-![Document-based and Component-based](CCMS-diagrams\01-document-vs-component-based.png)
+![Document-based and Component-based](CCMS-diagrams/01-document-vs-component-based.png)
 *Left: content lives inside documents, so shared material is duplicated. Right: content lives in a repository, and documents point to it.*
 
 What counts as a component depends on your content model. In DITA, the natural unit is the topic. Some systems also allow reuse of smaller pieces, such as a single step or phrase inside a topic.
@@ -34,7 +34,7 @@ Single-sourcing means writing content once and using it wherever it applies. In 
 
 When the component is updated, every document that references it picks up the change the next time it is published.
 
-![Content reuse](CCMS-diagrams\02-single-sourcing-reuse.png)
+![Content reuse](CCMS-diagrams/02-single-sourcing-reuse.png)
 *One component, several deliverables. The edit happens in one place.*\
 
 > Worth knowing: because one edit can reach many deliverables, it helps to see where a component is used before you change it. Many systems offer a where-used view for this. When content differs slightly between products or audiences, structured formats such as DITA support conditional content, so one component can serve several variants.
@@ -45,7 +45,7 @@ A CCMS records changes to each component and keeps a history of its versions, so
 
 Role-based access control decides who can do what. A common pattern is that authors edit, reviewers comment, approvers sign off, and administrators manage settings. The exact roles and workflow states are usually configurable and differ between systems, so the flow below is an example.
 
-![An example lifecycle](CCMS-diagrams\03-workflow-and-versions.png)
+![An example lifecycle](CCMS-diagrams/03-workflow-and-versions.png)
 *An example lifecycle. Your CCMS may use different states and role names.*
 
 ## Structured authoring (DITA and XML)
@@ -68,7 +68,7 @@ DITA, the Darwin Information Typing Architecture, is an open XML-based standard 
 
 *A small DITA task topic. The tags say what each piece is (a task, a step, a command). Nothing in the source sets fonts, colors, or page layout.*
 
-![Organizing map](CCMS-diagrams\04-dita-map-and-topics.png)
+![Organizing map](CCMS-diagrams/04-dita-map-and-topics.png)
 *A map organizes topics into a deliverable. The same topics can appear in other maps.*
 
 ## Multi-channel publishing
@@ -77,7 +77,7 @@ Because content is separate from formatting, the same components can be publishe
 
 For readers, this means content can reach them in the format and on the device they actually use. For writers, it means one source to maintain instead of a separate version per channel.
 
-![Multi-channel publishing](CCMS-diagrams\05-multi-channel-publishing.png)
+![Multi-channel publishing](CCMS-diagrams/05-multi-channel-publishing.png)
 *One source, several outputs. Formatting is applied at publish time, not written into the content.*
 
 ## Localization and translation management
@@ -86,7 +86,7 @@ With component-based content, translation can work at the component level too. W
 
 Consistency improves for a similar reason. A reused component is translated once and then appears in every document that references it, so the same sentence reads the same way everywhere. Many systems also connect to translation tools or vendors to manage the hand-off.
 
-![Localization example](CCMS-diagrams\06-localization-workflow.png)
+![Localization example](CCMS-diagrams/06-localization-workflow.png)
 *Illustrative example. The languages shown are placeholders.*
 
 ## Integration with other tools
@@ -99,7 +99,7 @@ A CCMS rarely works alone. Common connections include:
 
 Connections like these can help keep documentation in step with the product and with where it is published. How they are made (APIs, connectors, or other methods) and how deep they go varies by product, so check what your CCMS supports.
 
-![CCMS integration](CCMS-diagrams\07-ccms-integrations.png)
+![CCMS integration](CCMS-diagrams/07-ccms-integrations.png)
 *The connections a CCMS offers depend on the product and how it is configured.*
 
 ## Task assignment and scheduling at the object level

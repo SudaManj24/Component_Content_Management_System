@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 240" role="img" aria-labelledby="f4t f4d" xmlns="http://www.w3.org/2000/svg" width="720" height="240">
+    <title id="f4t">A DITA map referencing three topic types</title>
+    <desc id="f4d">A map called Product guide references a concept topic, a task topic and a reference topic.</desc>
+    <rect x="250" y="14" width="220" height="48" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(22, 33, 43)" stroke-width="2px" stroke-dasharray="none"></rect>
+    <text x="360" y="34" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Map</text>
+    <text x="360" y="52" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Product guide</text>
+    <line x1="360" y1="62" x2="130" y2="130" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <line x1="360" y1="62" x2="360" y2="130" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <line x1="360" y1="62" x2="590" y2="130" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <text x="370" y="100" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">topicref</text>
+    <rect x="40" y="130" width="180" height="84" rx="8" fill="rgb(220, 232, 251)" stroke="rgb(43, 108, 223)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="56" y="154" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">concept</text><text x="56" y="184" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">What the filter does</text>
+    <rect x="270" y="130" width="180" height="84" rx="8" fill="rgb(211, 240, 234)" stroke="rgb(14, 143, 126)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="286" y="154" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">task</text><text x="286" y="184" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Replace the filter</text>
+    <rect x="500" y="130" width="180" height="84" rx="8" fill="rgb(251, 235, 194)" stroke="rgb(183, 121, 31)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="516" y="154" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">reference</text><text x="516" y="184" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Filter specifications</text>
+  </svg>

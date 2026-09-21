@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 310" role="img" aria-labelledby="f2t f2d" xmlns="http://www.w3.org/2000/svg" width="720" height="310">
+    <title id="f2t">One component reused in three documents</title>
+    <desc id="f2d">A single warning component is referenced by an installation guide, a user guide, and a quick start card. One edit to the warning reaches all three.</desc>
+    <defs>
+      <marker id="ah2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="rgb(86, 101, 115)" stroke="none" stroke-width="1px" stroke-dasharray="none"></path></marker>
+    </defs>
+    <rect x="20" y="68" width="112" height="28" rx="14" fill="rgb(255, 255, 255)" stroke="rgb(22, 33, 43)" stroke-width="2px" stroke-dasharray="none"></rect>
+    <text x="76" y="87" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Edited once</text>
+    <rect x="20" y="110" width="210" height="84" rx="8" fill="rgb(231, 224, 251)" stroke="rgb(109, 74, 216)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="36" y="138" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Warning</text>
+    <text x="36" y="158" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Disconnect power before</text>
+    <text x="36" y="176" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">servicing the unit.</text>
+
+    <path d="M230 152C350 152 350 56 466 56" marker-end="url(#ah2)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M230 152L466 152" marker-end="url(#ah2)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M230 152C350 152 350 248 466 248" marker-end="url(#ah2)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+
+    <rect x="470" y="30" width="230" height="52" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="486" y="52" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">Installation Guide</text>
+    <text x="486" y="70" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Uses the warning by reference</text>
+    <rect x="470" y="126" width="230" height="52" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="486" y="148" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">User Guide</text>
+    <text x="486" y="166" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Uses the warning by reference</text>
+    <rect x="470" y="222" width="230" height="52" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="486" y="244" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">Quick Start Card</text>
+    <text x="486" y="262" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Uses the warning by reference</text>
+
+    <text x="20" y="298" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Each deliverable picks up the change the next time it is published.</text>
+  </svg>

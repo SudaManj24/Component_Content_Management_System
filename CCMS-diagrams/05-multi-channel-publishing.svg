@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 250" role="img" aria-labelledby="f5t f5d" xmlns="http://www.w3.org/2000/svg" width="720" height="250">
+    <title id="f5t">One set of components published to several formats</title>
+    <desc id="f5d">Four components flow into a publishing process, which produces PDF, HTML, mobile app content and other formats.</desc>
+    <defs>
+      <marker id="ah5" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="rgb(86, 101, 115)" stroke="none" stroke-width="1px" stroke-dasharray="none"></path></marker>
+    </defs>
+    <rect x="20" y="20" width="150" height="40" rx="6" fill="rgb(220, 232, 251)" stroke="rgb(43, 108, 223)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="95" y="45" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Concept</text>
+    <rect x="20" y="75" width="150" height="40" rx="6" fill="rgb(211, 240, 234)" stroke="rgb(14, 143, 126)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="95" y="100" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Task</text>
+    <rect x="20" y="130" width="150" height="40" rx="6" fill="rgb(251, 235, 194)" stroke="rgb(183, 121, 31)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="95" y="155" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Reference</text>
+    <rect x="20" y="185" width="150" height="40" rx="6" fill="rgb(231, 224, 251)" stroke="rgb(109, 74, 216)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="95" y="210" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Warning</text>
+    <path d="M170 40C210 40 210 125 241 125" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M170 95C210 95 210 125 241 125" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M170 150C210 150 210 125 241 125" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M170 205C210 205 210 125 241 125" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+
+    <rect x="245" y="55" width="230" height="140" rx="10" fill="rgb(255, 255, 255)" stroke="rgb(22, 33, 43)" stroke-width="2px" stroke-dasharray="none"></rect>
+    <text x="360" y="86" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">Publishing process</text>
+    <text x="360" y="114" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">A map selects the components</text>
+    <text x="360" y="134" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Styles and templates</text>
+    <text x="360" y="154" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">apply the formatting</text>
+
+    <path d="M475 125C510 125 510 40 546 40" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M475 125C510 125 510 95 546 95" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M475 125C510 125 510 150 546 150" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M475 125C510 125 510 205 546 205" marker-end="url(#ah5)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <rect x="550" y="20" width="150" height="40" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="625" y="45" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">PDF</text>
+    <rect x="550" y="75" width="150" height="40" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="625" y="100" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">HTML</text>
+    <rect x="550" y="130" width="150" height="40" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="625" y="155" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Mobile app</text>
+    <rect x="550" y="185" width="150" height="40" rx="8" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="5px, 4px"></rect><text x="625" y="210" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">and other formats</text>
+  </svg>

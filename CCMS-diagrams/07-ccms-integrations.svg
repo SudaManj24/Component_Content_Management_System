@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 300" role="img" aria-labelledby="f7t f7d" xmlns="http://www.w3.org/2000/svg" width="720" height="300">
+    <title id="f7t">A CCMS connected to surrounding systems</title>
+    <desc id="f7d">The CCMS sits at the center, connected to content delivery platforms, PLM systems, software development tools, and other systems that vary by product.</desc>
+    <line x1="250" y1="56" x2="292" y2="118" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <line x1="250" y1="244" x2="292" y2="182" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <line x1="470" y1="56" x2="428" y2="118" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <line x1="470" y1="244" x2="428" y2="182" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></line>
+    <rect x="270" y="115" width="180" height="70" rx="12" fill="rgb(22, 33, 43)" stroke="none" stroke-width="1px" stroke-dasharray="none"></rect>
+    <text x="360" y="146" text-anchor="middle" fill="rgb(246, 248, 250)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="16px" font-weight="600">CCMS</text>
+    <text x="360" y="166" text-anchor="middle" fill="rgb(246, 248, 250)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">component repository</text>
+
+    <rect x="20" y="24" width="230" height="64" rx="10" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="36" y="50" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">Content delivery platforms</text>
+    <text x="36" y="70" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">CDP: where content reaches readers</text>
+    <rect x="20" y="212" width="230" height="64" rx="10" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="36" y="238" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">Software development tools</text>
+    <text x="36" y="258" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Where the product is built</text>
+    <rect x="470" y="24" width="230" height="64" rx="10" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="486" y="50" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">PLM systems</text>
+    <text x="486" y="70" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Product Lifecycle Management</text>
+    <rect x="470" y="212" width="230" height="64" rx="10" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="5px, 4px"></rect>
+    <text x="486" y="238" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Other systems</text>
+    <text x="486" y="258" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Varies by product</text>
+  </svg>

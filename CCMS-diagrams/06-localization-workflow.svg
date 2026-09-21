@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 240" role="img" aria-labelledby="f6t f6d" xmlns="http://www.w3.org/2000/svg" width="720" height="240">
+    <title id="f6t">Only revised components are sent for translation</title>
+    <desc id="f6d">Three source components: two unchanged, which reuse existing translations, and one revised, which is sent for translation. All feed the set of target-language outputs.</desc>
+    <defs>
+      <marker id="ah6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="rgb(86, 101, 115)" stroke="none" stroke-width="1px" stroke-dasharray="none"></path></marker>
+    </defs>
+    <text x="20" y="22" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Source component</text>
+    <text x="205" y="22" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Status</text>
+    <text x="335" y="22" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Translation step</text>
+    <text x="565" y="22" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Result</text>
+
+    <rect x="20" y="46" width="170" height="44" rx="6" fill="rgb(220, 232, 251)" stroke="rgb(43, 108, 223)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="105" y="73" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">What the filter does</text>
+    <rect x="20" y="106" width="170" height="44" rx="6" fill="rgb(211, 240, 234)" stroke="rgb(14, 143, 126)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="105" y="133" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Replace the filter</text>
+    <rect x="20" y="166" width="170" height="44" rx="6" fill="rgb(231, 224, 251)" stroke="rgb(109, 74, 216)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="105" y="193" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Warning</text>
+
+    <rect x="205" y="55" width="100" height="26" rx="13" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="255" y="72" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">unchanged</text>
+    <rect x="205" y="115" width="100" height="26" rx="13" fill="rgb(255, 255, 255)" stroke="rgb(22, 33, 43)" stroke-width="2px" stroke-dasharray="none"></rect><text x="255" y="132" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">revised</text>
+    <rect x="205" y="175" width="100" height="26" rx="13" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect><text x="255" y="192" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">unchanged</text>
+
+    <path d="M305 68L331 68" marker-end="url(#ah6)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M305 128L331 128" marker-end="url(#ah6)" fill="none" stroke="rgb(22, 33, 43)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M305 188L331 188" marker-end="url(#ah6)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+
+    <rect x="335" y="46" width="200" height="44" rx="8" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="5px, 4px"></rect><text x="435" y="73" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Reuse existing translation</text>
+    <rect x="335" y="106" width="200" height="44" rx="8" fill="rgb(255, 255, 255)" stroke="rgb(22, 33, 43)" stroke-width="2px" stroke-dasharray="none"></rect><text x="435" y="133" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="600">Send for translation</text>
+    <rect x="335" y="166" width="200" height="44" rx="8" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="5px, 4px"></rect><text x="435" y="193" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Reuse existing translation</text>
+
+    <path d="M535 68L561 68" marker-end="url(#ah6)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M535 128L561 128" marker-end="url(#ah6)" fill="none" stroke="rgb(22, 33, 43)" stroke-width="1.5px" stroke-dasharray="none"></path>
+    <path d="M535 188L561 188" marker-end="url(#ah6)" fill="none" stroke="rgb(86, 101, 115)" stroke-width="1.5px" stroke-dasharray="none"></path>
+
+    <rect x="565" y="40" width="145" height="176" rx="10" fill="rgb(255, 255, 255)" stroke="rgb(213, 221, 229)" stroke-width="1.5px" stroke-dasharray="none"></rect>
+    <text x="637" y="70" text-anchor="middle" fill="rgb(22, 33, 43)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13.5px" font-weight="600">Target languages</text>
+    <text x="637" y="96" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">German</text>
+    <text x="637" y="115" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Japanese</text>
+    <text x="637" y="134" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Spanish</text>
+    <text x="637" y="172" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">Only the revised</text>
+    <text x="637" y="190" text-anchor="middle" fill="rgb(86, 101, 115)" font-family="&quot;IBM Plex Sans&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="12.5px" font-weight="400">component is new work</text>
+  </svg>
